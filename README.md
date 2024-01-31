@@ -9,6 +9,6 @@
 ### SpaceGame
 OOP graphical game using images and vector based movement
 
-![Gameplay]()
+![Gameplay](sg1.png)
 
 [Source Code]()
